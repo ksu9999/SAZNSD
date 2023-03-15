@@ -57,6 +57,6 @@ ksu@LAPTOP-SESRIRF7:~$ dmesg | tail -n 30
 [   73.800488] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
 [   73.801269] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
 [   73.802222] misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
-## Вывод
+## Выводы
 В результате данной лабораторной работы мы получили основную информацию об ОС и процессоре, а также логи системы.
 Кроме того мы научились работать с базовыми командами Linux и получать информацию об операционной системе.
