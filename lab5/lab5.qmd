@@ -1,6 +1,6 @@
 ---
 title: "Изучение ГОСТ"
-author: Солдатенкова Ксения
+author: Солдатенкова Ксения БИСО-03-20
 format: 
     md:
         output-file: README.md
